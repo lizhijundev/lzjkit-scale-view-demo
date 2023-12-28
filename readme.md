@@ -1,8 +1,9 @@
 # scale-view
-基于uniapp自动缩放布局
+基于uniapp自动缩放布局组件
+
+![](./preview/1.png)
 
 ## 平台兼容性
-
 | Vue2 | Vue3 |
 |------|--|
 |  ❌  | ✅  |

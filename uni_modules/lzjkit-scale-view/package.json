@@ -1,12 +1,12 @@
 {
   "id": "lzjkit-scale-view",
-  "displayName": "lzjkit-scale-view",
+  "displayName": "scale-view",
   "version": "1.0.0",
-  "description": "lzjkit-scale-view",
+  "description": "基于uniapp自动缩放布局组件",
   "keywords": [
-    "lzjkit-scale-view"
+    "uniapp"
 ],
-  "repository": "",
+  "repository": "https://github.com/lizhijundev/lzjkit-scale-view-demo",
   "engines": {
     "HBuilderX": "^3.1.0"
   },
@@ -24,9 +24,9 @@
       "qq": ""
     },
     "declaration": {
-      "ads": "",
-      "data": "",
-      "permissions": ""
+      "ads": "无",
+      "data": "无",
+      "permissions": "无"
     },
     "npmurl": ""
   },
@@ -35,18 +35,18 @@
     "encrypt": [],
     "platforms": {
       "cloud": {
-        "tcb": "u",
-        "aliyun": "u"
+        "tcb": "y",
+        "aliyun": "y"
       },
       "client": {
         "Vue": {
-          "vue2": "u",
-          "vue3": "u"
+          "vue2": "n",
+          "vue3": "y"
         },
         "App": {
-          "app-vue": "u",
-          "app-nvue": "u",
-          "app-uvue": "u",
+          "app-vue": "y",
+          "app-nvue": "n",
+          "app-uvue": "n"
         },
         "H5-mobile": {
           "Safari": "u",
@@ -62,14 +62,14 @@
           "Safari": "u"
         },
         "小程序": {
-          "微信": "u",
-          "阿里": "u",
-          "百度": "u",
-          "字节跳动": "u",
-          "QQ": "u",
+          "微信": "y",
+          "阿里": "y",
+          "百度": "n",
+          "字节跳动": "n",
+          "QQ": "y",
           "钉钉": "u",
           "快手": "u",
-          "飞书": "u",
+          "飞书": "y",
           "京东": "u"
         },
         "快应用": {
