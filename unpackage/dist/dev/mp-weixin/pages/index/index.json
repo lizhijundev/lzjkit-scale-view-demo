@@ -1,0 +1,6 @@
+{
+  "navigationBarTitleText": "ScaleViewDemo",
+  "usingComponents": {
+    "scale-view": "../../uni_modules/lzjkit-scale-view/components/lzjkit-scale-view/lzjkit-scale-view"
+  }
+}
