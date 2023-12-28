@@ -1,7 +1,6 @@
 <template>
 	<view class="content">
     <scale-view
-        debug
         :x="0"
         :y="0"
         :min-scale-rate="0.6"
